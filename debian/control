@@ -1,0 +1,16 @@
+Source: cinhos-desktop-meta
+Section: metapackages
+Priority: optional
+Maintainer: cinchOS GNOME Developers <cinchos-gnome@cinchos.org>
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9), germinate (>= 1.18)
+
+Package: cinhos-desktop
+Architecture: i386 amd64
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: The cinchOS metapackage
+ cinchOS is an powerful but elegant Linux based Operating System with ease of use in mind.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
