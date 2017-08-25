@@ -5,14 +5,13 @@ anacron
 at-spi2-core
 bc
 ca-certificates
-eog
+cinchos-default-settings
 fonts-cantarell
 fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
 gcr
 gdm3
-gedit
 genisoimage
 ghostscript-x
 gjs
@@ -54,7 +53,6 @@ ssh-askpass-gnome
 system-config-printer-gnome
 tracker
 ubuntu-drivers-common
-ubuntu-gnome-default-settings
 ubuntu-release-upgrader-gtk
 unzip
 update-manager
