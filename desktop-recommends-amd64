@@ -55,10 +55,9 @@ mcp-account-manager-goa
 mousetweaks
 network-manager-pptp
 network-manager-pptp-gnome
-numix-gtk-theme
 pcmciautils
-plymouth-theme-ubuntu-gnome-logo
-plymouth-theme-ubuntu-gnome-text
+plymouth-theme-cinchos-logo
+plymouth-theme-cinchos-text
 policykit-desktop-privileges
 ppa-purge
 printer-driver-brlaser
